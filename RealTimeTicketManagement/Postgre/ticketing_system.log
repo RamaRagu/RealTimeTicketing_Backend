@@ -1,0 +1,36 @@
+Dec 06, 2024 5:57:57 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem start
+INFO: Ticketing system started.
+Dec 07, 2024 11:22:24 AM com.Ticket.Postgre.CLI.RealTimeTicketingSystem start
+INFO: Inputs - Max Capacity: 50, Release Rate: 500, Retrieval Rate: 1000, Total Tickets: 200
+Dec 07, 2024 11:23:14 AM com.Ticket.Postgre.CLI.RealTimeTicketingSystem lambda$start$0
+INFO: Stopping the ticketing system...
+Dec 07, 2024 11:24:58 AM com.Ticket.Postgre.CLI.RealTimeTicketingSystem start
+INFO: Ticketing system started.
+Dec 07, 2024 11:32:32 AM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 50, Release Rate: 2, Retrieval Rate: 1, Total Tickets: 100
+Dec 07, 2024 11:32:32 AM com.Ticket.Postgre.CLI.RealTimeTicketingSystem start
+INFO: Ticketing system started.
+Dec 07, 2024 11:38:16 AM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 50, Release Rate: 20, Retrieval Rate: 40, Total Tickets: 100
+Dec 07, 2024 11:38:16 AM com.Ticket.Postgre.CLI.RealTimeTicketingSystem start
+INFO: Ticketing system started.
+Dec 07, 2024 11:41:26 AM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 25, Release Rate: 1000, Retrieval Rate: 2000, Total Tickets: 50
+Dec 07, 2024 11:41:26 AM com.Ticket.Postgre.CLI.RealTimeTicketingSystem start
+INFO: Ticketing system started.
+Dec 07, 2024 11:42:23 AM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 25, Release Rate: 2, Retrieval Rate: 4, Total Tickets: 50
+Dec 07, 2024 11:42:23 AM com.Ticket.Postgre.CLI.RealTimeTicketingSystem start
+INFO: Ticketing system started.
+Dec 07, 2024 9:42:28 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 50, Release Rate: 2, Retrieval Rate: 4, Total Tickets: 100
+Dec 07, 2024 9:42:28 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem start
+INFO: Ticketing system started.
+Dec 07, 2024 10:55:07 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 50, Release Rate: 2, Retrieve Rate: 1, Max Tickets: 100
+Dec 07, 2024 10:55:07 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem start
+INFO: Ticketing system started.
+Dec 07, 2024 11:50:52 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 50, Release Rate: 10, Retrieve Rate: 5, Max Tickets: 50
+Dec 07, 2024 11:50:52 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem start
+INFO: Ticketing system started.

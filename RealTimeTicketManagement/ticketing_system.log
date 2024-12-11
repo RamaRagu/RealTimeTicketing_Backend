@@ -1,0 +1,16 @@
+Dec 11, 2024 8:22:18 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 50, Release Rate: 20, Retrieve Rate: 10, Max Tickets: 100
+Dec 11, 2024 8:22:18 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 50, Release Rate: 20, Retrieve Rate: 10, Max Tickets: 100
+Dec 11, 2024 8:22:18 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem runThread
+INFO: Ticketing system started.
+Dec 11, 2024 9:27:06 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 50, Release Rate: 20, Retrieve Rate: 10, Max Tickets: 100
+Dec 11, 2024 9:27:06 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 50, Release Rate: 20, Retrieve Rate: 10, Max Tickets: 100
+Dec 11, 2024 9:27:06 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem runThread
+INFO: Ticketing system started.
+Dec 11, 2024 9:28:03 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem logInputsToLogFile
+INFO: Inputs: Max Capacity: 250, Release Rate: 200, Retrieve Rate: 100, Max Tickets: 500
+Dec 11, 2024 9:28:03 PM com.Ticket.Postgre.CLI.RealTimeTicketingSystem runThread
+INFO: Ticketing system started.
